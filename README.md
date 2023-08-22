@@ -1,8 +1,6 @@
 # Symfony Version 5.4
 # Symfony Test Project - Distance Calculater
-#
 # Note:
-#
 # Clone the project
 # cd project
 # composer install - Run command in side project
